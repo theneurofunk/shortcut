@@ -20,8 +20,6 @@
 				<key>URLString</key>
 				<string>https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&amp;vs_currencies=rub&amp;include_24hr_change=true</string>
 			</dict>
-			<key>ShouldLog</key>
-			<false/>
 			<key>WFVariable</key>
 			<array>
 				<dict>
@@ -65,8 +63,6 @@
 			<true/>
 			<key>Parameters</key>
 			<dict/>
-			<key>ShouldLog</key>
-			<false/>
 			<key>WFVariable</key>
 			<array>
 				<dict>
@@ -120,8 +116,6 @@
 			<true/>
 			<key>Parameters</key>
 			<dict/>
-			<key>ShouldLog</key>
-			<false/>
 			<key>WFVariable</key>
 			<array>
 				<dict>
@@ -175,8 +169,6 @@
 			<true/>
 			<key>Parameters</key>
 			<dict/>
-			<key>ShouldLog</key>
-			<false/>
 			<key>WFVariable</key>
 			<array>
 				<dict>
@@ -230,8 +222,6 @@
 			<true/>
 			<key>Parameters</key>
 			<dict/>
-			<key>ShouldLog</key>
-			<false/>
 			<key>WFVariable</key>
 			<array>
 				<dict>
@@ -285,8 +275,6 @@
 			<true/>
 			<key>Parameters</key>
 			<dict/>
-			<key>ShouldLog</key>
-			<false/>
 			<key>WFVariable</key>
 			<array>
 				<dict>
@@ -410,8 +398,6 @@
 			<true/>
 			<key>Parameters</key>
 			<dict/>
-			<key>ShouldLog</key>
-			<false/>
 			<key>WFVariable</key>
 			<array>
 				<dict>
@@ -455,8 +441,6 @@
 			<true/>
 			<key>Parameters</key>
 			<dict/>
-			<key>ShouldLog</key>
-			<false/>
 		</dict>
 	</array>
 	<key>Created</key>
