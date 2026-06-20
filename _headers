@@ -1,4 +1,3 @@
-/*
-  Content-Type: application/x-apple-shortcut
-  Content-Disposition: attachment; filename="crypto-courses.shortcut"
-  Cache-Control: no-cache
+/crypt*
+Content-Type: application/x-apple-shortcut+json
+Content-Disposition: attachment; filename="crypto-courses.shortcut"
