@@ -1,0 +1,4 @@
+*.swift
+generate_shortcut.py
+crypto-courses-shortcut.json
+.git
