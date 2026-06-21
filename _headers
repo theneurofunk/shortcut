@@ -1,3 +1,8 @@
-/crypt*
-Content-Type: application/x-apple-shortcut+json
-Content-Disposition: attachment; filename="crypto-courses.shortcut"
+/*
+  X-Content-Type-Options: nosniff
+
+/CryptoAssistant.html
+  Content-Type: text/html; charset=utf-8
+
+/index.html
+  Content-Type: text/html; charset=utf-8
